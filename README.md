@@ -3,3 +3,5 @@
 ## Repository Ini di Buat Untuk Memenuhi Tugas UTS Kecerdasan Buatan
 
 ### By : Mushi1221
+
+LINK YT : https://youtu.be/cyH3ypPlhcg
